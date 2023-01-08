@@ -1,0 +1,66 @@
+.div_box{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+.g_img{
+    height: 90%;
+    width: 100px;
+    margin-left: 50px;
+}
+.slider_img{
+    height: 100%;
+    width: 100%;
+}
+.para_text{
+    font-size: 20px;
+    line-height: 30px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+.service_img{
+    height: 100%;
+    width: 100%;
+}
+.client_img{
+    height: 100%;
+    width: 100%;
+}
+#why_green_img{
+    height: 100%;
+    width: 100%;
+}
+.heading_text{
+    padding: 10px;
+}
+.our_text{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#why_head_text{
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.why_box_text{
+    padding-top: 0px;
+}
+.div_box_head{
+    text-align: center;
+}
+.head_img{
+    height: 30px;
+    width: 40px;
+}
+.link_box_head_text{
+    color: white;
+    padding: 20px;
+}
+.avaibiliy_img{
+    height: 50%;
+    width: 70%;
+    text-align: center;
+}
+#link_img{
+    text-align: center;
+}
