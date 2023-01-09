@@ -6,7 +6,7 @@
 .g_img{
     height: 90%;
     width: 100px;
-    margin-left: 50px;
+    margin-left: 150px;
 }
 .slider_img{
     height: 100%;
@@ -63,4 +63,7 @@
 }
 #link_img{
     text-align: center;
+}
+#button_home{
+    margin-left: 100px;
 }
