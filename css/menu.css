@@ -15,10 +15,12 @@ ul li{
 }
 ul li:hover{
     background-color: red;
+    border-bottom: 5px solid whitesmoke;
 }
 ul li a{
     text-decoration: none;
     padding:0px 10px;
+    font-size: 25px;
 }
 ul li:hover a{
     display: block;

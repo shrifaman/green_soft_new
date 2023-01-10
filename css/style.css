@@ -64,6 +64,7 @@
 #link_img{
     text-align: center;
 }
-#button_home{
-    margin-left: 100px;
+.client_img:hover{
+    border-bottom: 10px solid yellow;
+    box-sizing: border-box;
 }
