@@ -4,11 +4,11 @@ ul{
     list-style: none;
 }
 ul li{
-    float: left;
+    float: right;
     width: auto;
     height: 30px;
+    text-align: center;
     background-color: aqua;
-    margin: 5px 0px 5px 20px;
     line-height: 30px;
     margin-top: 35px;
     border-radius: 0px 5px 0px 5px;
@@ -20,10 +20,36 @@ ul li:hover{
 ul li a{
     text-decoration: none;
     padding:0px 10px;
-    font-size: 25px;
+    font-size: 20px;
+    float: left;
 }
 ul li:hover a{
     display: block;
+}
+#mobile{
+    display: none;
+}
+.home_icon{
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    color: blueviolet;
+    border-radius: 5px 0px 5px 5px;
+    padding: 10px;
+}
+.home_icon:hover{
+    background-color: yellow;
+}
+#desktop{
+    display: inline;
+}
+@media(max-width:780px){
+    #mobile{
+        display: block;
+    }
+    #desktop{
+        display: none;
+    }
 }
 button{
     height: 30px;

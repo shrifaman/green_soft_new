@@ -3,11 +3,6 @@
     margin-right: 10px;
     margin-bottom: 5px;
 }
-.g_img{
-    height: 90%;
-    width: 100px;
-    margin-left: 150px;
-}
 .slider_img{
     height: 100%;
     width: 100%;
@@ -67,4 +62,21 @@
 .client_img:hover{
     border-bottom: 10px solid yellow;
     box-sizing: border-box;
+}
+.touch_icon{
+    color: #fff;
+    margin-left: 30px;
+}
+.icon_text{
+    margin-left: 10px;
+    font-size: 20px;
+}
+.icon_link_text{
+    margin-left: 50px;
+    font-size: 17px;
+}
+.social_link{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 30px;
 }
